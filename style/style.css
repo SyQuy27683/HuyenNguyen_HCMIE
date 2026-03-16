@@ -1,7 +1,7 @@
 :root {
-    --color-env: #84baf8;
-    --color-env2: #4087f1;
-    --color-flap: #0041f3;
+    --color-env: #7FFFD4;
+    --color-env2: #10ffab;
+    --color-flap: #02ab70;
     --color-bg: #ed7fca;
     --color-heart: #7FFFD4;
     --color-sparkle: #fff;
@@ -68,7 +68,7 @@ body {
 
 .letter {
     position: relative;
-    background-color: #7FFFD4;
+    background-color: #020eae;
     width: 95%;
     margin: 0 auto;
     height: 95%;
@@ -162,7 +162,7 @@ body {
     position: absolute;
     width: 20px;
     height: 20px;
-    border: 2px solid #7FFFD4;
+    border: 2px solid #029363;
     border-radius: 5px;
     z-index: 3;
 }
@@ -258,7 +258,7 @@ body {
     background-color: var(--color-env);
     border: 2px solid var(--color-env2);
     border-radius: 20px;
-    color: white;
+    color: rgb(0, 101, 29);
     padding: 12px 25px;
     margin: 10px;
     font-size: 16px;
