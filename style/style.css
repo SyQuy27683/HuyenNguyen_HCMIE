@@ -68,7 +68,7 @@ body {
 
 .letter {
     position: relative;
-    background-color: #f5cae2;
+    background-color: #7FFFD4;
     width: 95%;
     margin: 0 auto;
     height: 95%;
@@ -98,7 +98,7 @@ body {
     position: relative;
     z-index: 2;
     font-family: 'Pacifico', cursive;
-    color: #1115ff;
+    color: #7FFFD4;
     text-align: center;
     line-height: 1.4;
     padding: 5px;
@@ -162,7 +162,7 @@ body {
     position: absolute;
     width: 20px;
     height: 20px;
-    border: 2px solid #ffd1dc;
+    border: 2px solid #7FFFD4;
     border-radius: 5px;
     z-index: 3;
 }
